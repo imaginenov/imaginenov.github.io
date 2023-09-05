@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[COMPANY-NAME] built the all app as a Free app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
+Imagine Nov built the all app as a Free app. This SERVICE is provided by Imagine Nov at no cost and is intended for use as is.
 
 ## Information Collection and Use
 
